@@ -1,0 +1,14 @@
+E:\C#\Basic3\Basic3\bin\Debug\net8.0\Basic3.exe
+E:\C#\Basic3\Basic3\bin\Debug\net8.0\Basic3.deps.json
+E:\C#\Basic3\Basic3\bin\Debug\net8.0\Basic3.runtimeconfig.json
+E:\C#\Basic3\Basic3\bin\Debug\net8.0\Basic3.dll
+E:\C#\Basic3\Basic3\bin\Debug\net8.0\Basic3.pdb
+E:\C#\Basic3\Basic3\obj\Debug\net8.0\Basic3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Basic3\Basic3\obj\Debug\net8.0\Basic3.AssemblyInfoInputs.cache
+E:\C#\Basic3\Basic3\obj\Debug\net8.0\Basic3.AssemblyInfo.cs
+E:\C#\Basic3\Basic3\obj\Debug\net8.0\Basic3.csproj.CoreCompileInputs.cache
+E:\C#\Basic3\Basic3\obj\Debug\net8.0\Basic3.dll
+E:\C#\Basic3\Basic3\obj\Debug\net8.0\refint\Basic3.dll
+E:\C#\Basic3\Basic3\obj\Debug\net8.0\Basic3.pdb
+E:\C#\Basic3\Basic3\obj\Debug\net8.0\Basic3.genruntimeconfig.cache
+E:\C#\Basic3\Basic3\obj\Debug\net8.0\ref\Basic3.dll

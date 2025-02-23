@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\C#\\Basic2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{9262AD4A-D432-4E7C-8CFF-5529ECBF29F1}|Basic2\\Basic2.csproj|e:\\c#\\basic2\\basic2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9262AD4A-D432-4E7C-8CFF-5529ECBF29F1}|Basic2\\Basic2.csproj|solutionrelative:basic2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 292,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\C#\\Basic2\\Basic2\\Program.cs",
-              "RelativeDocumentMoniker": "Basic2\\Program.cs",
-              "ToolTip": "E:\\C#\\Basic2\\Basic2\\Program.cs",
-              "RelativeToolTip": "Basic2\\Program.cs",
-              "ViewState": "AgIAALoAAAAAAAAAAAAUwMsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T14:56:13.989Z",
-              "EditorCaption": ""
             }
           ]
         }
