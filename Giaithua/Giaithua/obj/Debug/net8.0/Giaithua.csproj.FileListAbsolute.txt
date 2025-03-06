@@ -1,0 +1,15 @@
+E:\C#\Giaithua\Giaithua\bin\Debug\net8.0\Giaithua.exe
+E:\C#\Giaithua\Giaithua\bin\Debug\net8.0\Giaithua.deps.json
+E:\C#\Giaithua\Giaithua\bin\Debug\net8.0\Giaithua.runtimeconfig.json
+E:\C#\Giaithua\Giaithua\bin\Debug\net8.0\Giaithua.dll
+E:\C#\Giaithua\Giaithua\bin\Debug\net8.0\Giaithua.pdb
+E:\C#\Giaithua\Giaithua\obj\Debug\net8.0\Giaithua.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Giaithua\Giaithua\obj\Debug\net8.0\Giaithua.AssemblyInfoInputs.cache
+E:\C#\Giaithua\Giaithua\obj\Debug\net8.0\Giaithua.AssemblyInfo.cs
+E:\C#\Giaithua\Giaithua\obj\Debug\net8.0\Giaithua.csproj.CoreCompileInputs.cache
+E:\C#\Giaithua\Giaithua\obj\Debug\net8.0\Giaithua.sourcelink.json
+E:\C#\Giaithua\Giaithua\obj\Debug\net8.0\Giaithua.dll
+E:\C#\Giaithua\Giaithua\obj\Debug\net8.0\refint\Giaithua.dll
+E:\C#\Giaithua\Giaithua\obj\Debug\net8.0\Giaithua.pdb
+E:\C#\Giaithua\Giaithua\obj\Debug\net8.0\Giaithua.genruntimeconfig.cache
+E:\C#\Giaithua\Giaithua\obj\Debug\net8.0\ref\Giaithua.dll

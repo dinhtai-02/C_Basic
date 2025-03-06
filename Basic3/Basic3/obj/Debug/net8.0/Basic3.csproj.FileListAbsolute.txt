@@ -12,3 +12,4 @@ E:\C#\Basic3\Basic3\obj\Debug\net8.0\refint\Basic3.dll
 E:\C#\Basic3\Basic3\obj\Debug\net8.0\Basic3.pdb
 E:\C#\Basic3\Basic3\obj\Debug\net8.0\Basic3.genruntimeconfig.cache
 E:\C#\Basic3\Basic3\obj\Debug\net8.0\ref\Basic3.dll
+E:\C#\Basic3\Basic3\obj\Debug\net8.0\Basic3.sourcelink.json

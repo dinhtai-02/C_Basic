@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\Giaithua\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{496379D6-1EA7-4518-A9EA-8D37A81B5636}|Giaithua\\Giaithua.csproj|e:\\c#\\giaithua\\giaithua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496379D6-1EA7-4518-A9EA-8D37A81B5636}|Giaithua\\Giaithua.csproj|solutionrelative:giaithua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Giaithua\\Giaithua\\Program.cs",
+              "RelativeDocumentMoniker": "Giaithua\\Program.cs",
+              "ToolTip": "E:\\C#\\Giaithua\\Giaithua\\Program.cs",
+              "RelativeToolTip": "Giaithua\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:17:26.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

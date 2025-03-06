@@ -1,0 +1,15 @@
+E:\C#\Demso\Demso\bin\Debug\net8.0\Demso.exe
+E:\C#\Demso\Demso\bin\Debug\net8.0\Demso.deps.json
+E:\C#\Demso\Demso\bin\Debug\net8.0\Demso.runtimeconfig.json
+E:\C#\Demso\Demso\bin\Debug\net8.0\Demso.dll
+E:\C#\Demso\Demso\bin\Debug\net8.0\Demso.pdb
+E:\C#\Demso\Demso\obj\Debug\net8.0\Demso.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Demso\Demso\obj\Debug\net8.0\Demso.AssemblyInfoInputs.cache
+E:\C#\Demso\Demso\obj\Debug\net8.0\Demso.AssemblyInfo.cs
+E:\C#\Demso\Demso\obj\Debug\net8.0\Demso.csproj.CoreCompileInputs.cache
+E:\C#\Demso\Demso\obj\Debug\net8.0\Demso.sourcelink.json
+E:\C#\Demso\Demso\obj\Debug\net8.0\Demso.dll
+E:\C#\Demso\Demso\obj\Debug\net8.0\refint\Demso.dll
+E:\C#\Demso\Demso\obj\Debug\net8.0\Demso.pdb
+E:\C#\Demso\Demso\obj\Debug\net8.0\Demso.genruntimeconfig.cache
+E:\C#\Demso\Demso\obj\Debug\net8.0\ref\Demso.dll

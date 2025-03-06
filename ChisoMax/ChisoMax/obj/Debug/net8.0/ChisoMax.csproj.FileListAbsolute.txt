@@ -1,0 +1,15 @@
+E:\C#\ChisoMax\ChisoMax\bin\Debug\net8.0\ChisoMax.exe
+E:\C#\ChisoMax\ChisoMax\bin\Debug\net8.0\ChisoMax.deps.json
+E:\C#\ChisoMax\ChisoMax\bin\Debug\net8.0\ChisoMax.runtimeconfig.json
+E:\C#\ChisoMax\ChisoMax\bin\Debug\net8.0\ChisoMax.dll
+E:\C#\ChisoMax\ChisoMax\bin\Debug\net8.0\ChisoMax.pdb
+E:\C#\ChisoMax\ChisoMax\obj\Debug\net8.0\ChisoMax.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ChisoMax\ChisoMax\obj\Debug\net8.0\ChisoMax.AssemblyInfoInputs.cache
+E:\C#\ChisoMax\ChisoMax\obj\Debug\net8.0\ChisoMax.AssemblyInfo.cs
+E:\C#\ChisoMax\ChisoMax\obj\Debug\net8.0\ChisoMax.csproj.CoreCompileInputs.cache
+E:\C#\ChisoMax\ChisoMax\obj\Debug\net8.0\ChisoMax.sourcelink.json
+E:\C#\ChisoMax\ChisoMax\obj\Debug\net8.0\ChisoMax.dll
+E:\C#\ChisoMax\ChisoMax\obj\Debug\net8.0\refint\ChisoMax.dll
+E:\C#\ChisoMax\ChisoMax\obj\Debug\net8.0\ChisoMax.pdb
+E:\C#\ChisoMax\ChisoMax\obj\Debug\net8.0\ChisoMax.genruntimeconfig.cache
+E:\C#\ChisoMax\ChisoMax\obj\Debug\net8.0\ref\ChisoMax.dll
