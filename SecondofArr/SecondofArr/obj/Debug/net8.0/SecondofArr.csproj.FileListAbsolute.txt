@@ -1,0 +1,15 @@
+E:\C#\SecondofArr\SecondofArr\bin\Debug\net8.0\SecondofArr.exe
+E:\C#\SecondofArr\SecondofArr\bin\Debug\net8.0\SecondofArr.deps.json
+E:\C#\SecondofArr\SecondofArr\bin\Debug\net8.0\SecondofArr.runtimeconfig.json
+E:\C#\SecondofArr\SecondofArr\bin\Debug\net8.0\SecondofArr.dll
+E:\C#\SecondofArr\SecondofArr\bin\Debug\net8.0\SecondofArr.pdb
+E:\C#\SecondofArr\SecondofArr\obj\Debug\net8.0\SecondofArr.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\SecondofArr\SecondofArr\obj\Debug\net8.0\SecondofArr.AssemblyInfoInputs.cache
+E:\C#\SecondofArr\SecondofArr\obj\Debug\net8.0\SecondofArr.AssemblyInfo.cs
+E:\C#\SecondofArr\SecondofArr\obj\Debug\net8.0\SecondofArr.csproj.CoreCompileInputs.cache
+E:\C#\SecondofArr\SecondofArr\obj\Debug\net8.0\SecondofArr.sourcelink.json
+E:\C#\SecondofArr\SecondofArr\obj\Debug\net8.0\SecondofArr.dll
+E:\C#\SecondofArr\SecondofArr\obj\Debug\net8.0\refint\SecondofArr.dll
+E:\C#\SecondofArr\SecondofArr\obj\Debug\net8.0\SecondofArr.pdb
+E:\C#\SecondofArr\SecondofArr\obj\Debug\net8.0\SecondofArr.genruntimeconfig.cache
+E:\C#\SecondofArr\SecondofArr\obj\Debug\net8.0\ref\SecondofArr.dll

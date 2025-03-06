@@ -1,0 +1,15 @@
+E:\C#\Tímodu\Tímodu\bin\Debug\net8.0\Tímodu.exe
+E:\C#\Tímodu\Tímodu\bin\Debug\net8.0\Tímodu.deps.json
+E:\C#\Tímodu\Tímodu\bin\Debug\net8.0\Tímodu.runtimeconfig.json
+E:\C#\Tímodu\Tímodu\bin\Debug\net8.0\Tímodu.dll
+E:\C#\Tímodu\Tímodu\bin\Debug\net8.0\Tímodu.pdb
+E:\C#\Tímodu\Tímodu\obj\Debug\net8.0\Tímodu.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tímodu\Tímodu\obj\Debug\net8.0\Tímodu.AssemblyInfoInputs.cache
+E:\C#\Tímodu\Tímodu\obj\Debug\net8.0\Tímodu.AssemblyInfo.cs
+E:\C#\Tímodu\Tímodu\obj\Debug\net8.0\Tímodu.csproj.CoreCompileInputs.cache
+E:\C#\Tímodu\Tímodu\obj\Debug\net8.0\Tímodu.sourcelink.json
+E:\C#\Tímodu\Tímodu\obj\Debug\net8.0\Tímodu.dll
+E:\C#\Tímodu\Tímodu\obj\Debug\net8.0\refint\Tímodu.dll
+E:\C#\Tímodu\Tímodu\obj\Debug\net8.0\Tímodu.pdb
+E:\C#\Tímodu\Tímodu\obj\Debug\net8.0\Tímodu.genruntimeconfig.cache
+E:\C#\Tímodu\Tímodu\obj\Debug\net8.0\ref\Tímodu.dll

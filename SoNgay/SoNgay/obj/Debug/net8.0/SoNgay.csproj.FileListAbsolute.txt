@@ -1,0 +1,15 @@
+E:\C#\SoNgay\SoNgay\bin\Debug\net8.0\SoNgay.exe
+E:\C#\SoNgay\SoNgay\bin\Debug\net8.0\SoNgay.deps.json
+E:\C#\SoNgay\SoNgay\bin\Debug\net8.0\SoNgay.runtimeconfig.json
+E:\C#\SoNgay\SoNgay\bin\Debug\net8.0\SoNgay.dll
+E:\C#\SoNgay\SoNgay\bin\Debug\net8.0\SoNgay.pdb
+E:\C#\SoNgay\SoNgay\obj\Debug\net8.0\SoNgay.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\SoNgay\SoNgay\obj\Debug\net8.0\SoNgay.AssemblyInfoInputs.cache
+E:\C#\SoNgay\SoNgay\obj\Debug\net8.0\SoNgay.AssemblyInfo.cs
+E:\C#\SoNgay\SoNgay\obj\Debug\net8.0\SoNgay.csproj.CoreCompileInputs.cache
+E:\C#\SoNgay\SoNgay\obj\Debug\net8.0\SoNgay.sourcelink.json
+E:\C#\SoNgay\SoNgay\obj\Debug\net8.0\SoNgay.dll
+E:\C#\SoNgay\SoNgay\obj\Debug\net8.0\refint\SoNgay.dll
+E:\C#\SoNgay\SoNgay\obj\Debug\net8.0\SoNgay.pdb
+E:\C#\SoNgay\SoNgay\obj\Debug\net8.0\SoNgay.genruntimeconfig.cache
+E:\C#\SoNgay\SoNgay\obj\Debug\net8.0\ref\SoNgay.dll

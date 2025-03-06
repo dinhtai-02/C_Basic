@@ -1,0 +1,15 @@
+E:\C#\TimMax\TimMax\bin\Debug\net8.0\TimMax.exe
+E:\C#\TimMax\TimMax\bin\Debug\net8.0\TimMax.deps.json
+E:\C#\TimMax\TimMax\bin\Debug\net8.0\TimMax.runtimeconfig.json
+E:\C#\TimMax\TimMax\bin\Debug\net8.0\TimMax.dll
+E:\C#\TimMax\TimMax\bin\Debug\net8.0\TimMax.pdb
+E:\C#\TimMax\TimMax\obj\Debug\net8.0\TimMax.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\TimMax\TimMax\obj\Debug\net8.0\TimMax.AssemblyInfoInputs.cache
+E:\C#\TimMax\TimMax\obj\Debug\net8.0\TimMax.AssemblyInfo.cs
+E:\C#\TimMax\TimMax\obj\Debug\net8.0\TimMax.csproj.CoreCompileInputs.cache
+E:\C#\TimMax\TimMax\obj\Debug\net8.0\TimMax.sourcelink.json
+E:\C#\TimMax\TimMax\obj\Debug\net8.0\TimMax.dll
+E:\C#\TimMax\TimMax\obj\Debug\net8.0\refint\TimMax.dll
+E:\C#\TimMax\TimMax\obj\Debug\net8.0\TimMax.pdb
+E:\C#\TimMax\TimMax\obj\Debug\net8.0\TimMax.genruntimeconfig.cache
+E:\C#\TimMax\TimMax\obj\Debug\net8.0\ref\TimMax.dll

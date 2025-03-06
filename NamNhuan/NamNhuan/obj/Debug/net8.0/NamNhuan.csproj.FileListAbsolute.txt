@@ -1,0 +1,15 @@
+E:\C#\NamNhuan\NamNhuan\bin\Debug\net8.0\NamNhuan.exe
+E:\C#\NamNhuan\NamNhuan\bin\Debug\net8.0\NamNhuan.deps.json
+E:\C#\NamNhuan\NamNhuan\bin\Debug\net8.0\NamNhuan.runtimeconfig.json
+E:\C#\NamNhuan\NamNhuan\bin\Debug\net8.0\NamNhuan.dll
+E:\C#\NamNhuan\NamNhuan\bin\Debug\net8.0\NamNhuan.pdb
+E:\C#\NamNhuan\NamNhuan\obj\Debug\net8.0\NamNhuan.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\NamNhuan\NamNhuan\obj\Debug\net8.0\NamNhuan.AssemblyInfoInputs.cache
+E:\C#\NamNhuan\NamNhuan\obj\Debug\net8.0\NamNhuan.AssemblyInfo.cs
+E:\C#\NamNhuan\NamNhuan\obj\Debug\net8.0\NamNhuan.csproj.CoreCompileInputs.cache
+E:\C#\NamNhuan\NamNhuan\obj\Debug\net8.0\NamNhuan.sourcelink.json
+E:\C#\NamNhuan\NamNhuan\obj\Debug\net8.0\NamNhuan.dll
+E:\C#\NamNhuan\NamNhuan\obj\Debug\net8.0\refint\NamNhuan.dll
+E:\C#\NamNhuan\NamNhuan\obj\Debug\net8.0\NamNhuan.pdb
+E:\C#\NamNhuan\NamNhuan\obj\Debug\net8.0\NamNhuan.genruntimeconfig.cache
+E:\C#\NamNhuan\NamNhuan\obj\Debug\net8.0\ref\NamNhuan.dll

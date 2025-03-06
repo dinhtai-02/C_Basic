@@ -1,0 +1,15 @@
+E:\C#\Tinhgiatri\Tinhgiatri\bin\Debug\net8.0\Tinhgiatri.exe
+E:\C#\Tinhgiatri\Tinhgiatri\bin\Debug\net8.0\Tinhgiatri.deps.json
+E:\C#\Tinhgiatri\Tinhgiatri\bin\Debug\net8.0\Tinhgiatri.runtimeconfig.json
+E:\C#\Tinhgiatri\Tinhgiatri\bin\Debug\net8.0\Tinhgiatri.dll
+E:\C#\Tinhgiatri\Tinhgiatri\bin\Debug\net8.0\Tinhgiatri.pdb
+E:\C#\Tinhgiatri\Tinhgiatri\obj\Debug\net8.0\Tinhgiatri.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tinhgiatri\Tinhgiatri\obj\Debug\net8.0\Tinhgiatri.AssemblyInfoInputs.cache
+E:\C#\Tinhgiatri\Tinhgiatri\obj\Debug\net8.0\Tinhgiatri.AssemblyInfo.cs
+E:\C#\Tinhgiatri\Tinhgiatri\obj\Debug\net8.0\Tinhgiatri.csproj.CoreCompileInputs.cache
+E:\C#\Tinhgiatri\Tinhgiatri\obj\Debug\net8.0\Tinhgiatri.sourcelink.json
+E:\C#\Tinhgiatri\Tinhgiatri\obj\Debug\net8.0\Tinhgiatri.dll
+E:\C#\Tinhgiatri\Tinhgiatri\obj\Debug\net8.0\refint\Tinhgiatri.dll
+E:\C#\Tinhgiatri\Tinhgiatri\obj\Debug\net8.0\Tinhgiatri.pdb
+E:\C#\Tinhgiatri\Tinhgiatri\obj\Debug\net8.0\Tinhgiatri.genruntimeconfig.cache
+E:\C#\Tinhgiatri\Tinhgiatri\obj\Debug\net8.0\ref\Tinhgiatri.dll

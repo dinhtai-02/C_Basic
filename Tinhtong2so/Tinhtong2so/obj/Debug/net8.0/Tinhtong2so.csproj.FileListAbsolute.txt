@@ -1,0 +1,15 @@
+E:\C#\Tinhtong2so\Tinhtong2so\bin\Debug\net8.0\Tinhtong2so.exe
+E:\C#\Tinhtong2so\Tinhtong2so\bin\Debug\net8.0\Tinhtong2so.deps.json
+E:\C#\Tinhtong2so\Tinhtong2so\bin\Debug\net8.0\Tinhtong2so.runtimeconfig.json
+E:\C#\Tinhtong2so\Tinhtong2so\bin\Debug\net8.0\Tinhtong2so.dll
+E:\C#\Tinhtong2so\Tinhtong2so\bin\Debug\net8.0\Tinhtong2so.pdb
+E:\C#\Tinhtong2so\Tinhtong2so\obj\Debug\net8.0\Tinhtong2so.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tinhtong2so\Tinhtong2so\obj\Debug\net8.0\Tinhtong2so.AssemblyInfoInputs.cache
+E:\C#\Tinhtong2so\Tinhtong2so\obj\Debug\net8.0\Tinhtong2so.AssemblyInfo.cs
+E:\C#\Tinhtong2so\Tinhtong2so\obj\Debug\net8.0\Tinhtong2so.csproj.CoreCompileInputs.cache
+E:\C#\Tinhtong2so\Tinhtong2so\obj\Debug\net8.0\Tinhtong2so.sourcelink.json
+E:\C#\Tinhtong2so\Tinhtong2so\obj\Debug\net8.0\Tinhtong2so.dll
+E:\C#\Tinhtong2so\Tinhtong2so\obj\Debug\net8.0\refint\Tinhtong2so.dll
+E:\C#\Tinhtong2so\Tinhtong2so\obj\Debug\net8.0\Tinhtong2so.pdb
+E:\C#\Tinhtong2so\Tinhtong2so\obj\Debug\net8.0\Tinhtong2so.genruntimeconfig.cache
+E:\C#\Tinhtong2so\Tinhtong2so\obj\Debug\net8.0\ref\Tinhtong2so.dll

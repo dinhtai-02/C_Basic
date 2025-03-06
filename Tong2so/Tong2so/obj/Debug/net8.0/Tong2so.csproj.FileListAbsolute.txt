@@ -1,0 +1,15 @@
+E:\C#\Tong2so\Tong2so\bin\Debug\net8.0\Tong2so.exe
+E:\C#\Tong2so\Tong2so\bin\Debug\net8.0\Tong2so.deps.json
+E:\C#\Tong2so\Tong2so\bin\Debug\net8.0\Tong2so.runtimeconfig.json
+E:\C#\Tong2so\Tong2so\bin\Debug\net8.0\Tong2so.dll
+E:\C#\Tong2so\Tong2so\bin\Debug\net8.0\Tong2so.pdb
+E:\C#\Tong2so\Tong2so\obj\Debug\net8.0\Tong2so.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tong2so\Tong2so\obj\Debug\net8.0\Tong2so.AssemblyInfoInputs.cache
+E:\C#\Tong2so\Tong2so\obj\Debug\net8.0\Tong2so.AssemblyInfo.cs
+E:\C#\Tong2so\Tong2so\obj\Debug\net8.0\Tong2so.csproj.CoreCompileInputs.cache
+E:\C#\Tong2so\Tong2so\obj\Debug\net8.0\Tong2so.sourcelink.json
+E:\C#\Tong2so\Tong2so\obj\Debug\net8.0\Tong2so.dll
+E:\C#\Tong2so\Tong2so\obj\Debug\net8.0\refint\Tong2so.dll
+E:\C#\Tong2so\Tong2so\obj\Debug\net8.0\Tong2so.pdb
+E:\C#\Tong2so\Tong2so\obj\Debug\net8.0\Tong2so.genruntimeconfig.cache
+E:\C#\Tong2so\Tong2so\obj\Debug\net8.0\ref\Tong2so.dll

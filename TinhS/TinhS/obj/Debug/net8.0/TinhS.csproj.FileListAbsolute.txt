@@ -1,0 +1,15 @@
+E:\C#\TinhS\TinhS\bin\Debug\net8.0\TinhS.exe
+E:\C#\TinhS\TinhS\bin\Debug\net8.0\TinhS.deps.json
+E:\C#\TinhS\TinhS\bin\Debug\net8.0\TinhS.runtimeconfig.json
+E:\C#\TinhS\TinhS\bin\Debug\net8.0\TinhS.dll
+E:\C#\TinhS\TinhS\bin\Debug\net8.0\TinhS.pdb
+E:\C#\TinhS\TinhS\obj\Debug\net8.0\TinhS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\TinhS\TinhS\obj\Debug\net8.0\TinhS.AssemblyInfoInputs.cache
+E:\C#\TinhS\TinhS\obj\Debug\net8.0\TinhS.AssemblyInfo.cs
+E:\C#\TinhS\TinhS\obj\Debug\net8.0\TinhS.csproj.CoreCompileInputs.cache
+E:\C#\TinhS\TinhS\obj\Debug\net8.0\TinhS.sourcelink.json
+E:\C#\TinhS\TinhS\obj\Debug\net8.0\TinhS.dll
+E:\C#\TinhS\TinhS\obj\Debug\net8.0\refint\TinhS.dll
+E:\C#\TinhS\TinhS\obj\Debug\net8.0\TinhS.pdb
+E:\C#\TinhS\TinhS\obj\Debug\net8.0\TinhS.genruntimeconfig.cache
+E:\C#\TinhS\TinhS\obj\Debug\net8.0\ref\TinhS.dll

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\Hinhchunhat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6324236-31C4-487E-910E-58406D3CC4D3}|Hinhchunhat\\Hinhchunhat.csproj|e:\\c#\\hinhchunhat\\hinhchunhat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6324236-31C4-487E-910E-58406D3CC4D3}|Hinhchunhat\\Hinhchunhat.csproj|solutionrelative:hinhchunhat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 292,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\Hinhchunhat\\Hinhchunhat\\Program.cs",
+              "RelativeDocumentMoniker": "Hinhchunhat\\Program.cs",
+              "ToolTip": "E:\\C#\\Hinhchunhat\\Hinhchunhat\\Program.cs",
+              "RelativeToolTip": "Hinhchunhat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:08:37.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

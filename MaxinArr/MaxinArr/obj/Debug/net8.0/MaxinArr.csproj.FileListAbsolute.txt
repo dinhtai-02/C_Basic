@@ -1,0 +1,15 @@
+E:\C#\MaxinArr\MaxinArr\bin\Debug\net8.0\MaxinArr.exe
+E:\C#\MaxinArr\MaxinArr\bin\Debug\net8.0\MaxinArr.deps.json
+E:\C#\MaxinArr\MaxinArr\bin\Debug\net8.0\MaxinArr.runtimeconfig.json
+E:\C#\MaxinArr\MaxinArr\bin\Debug\net8.0\MaxinArr.dll
+E:\C#\MaxinArr\MaxinArr\bin\Debug\net8.0\MaxinArr.pdb
+E:\C#\MaxinArr\MaxinArr\obj\Debug\net8.0\MaxinArr.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\MaxinArr\MaxinArr\obj\Debug\net8.0\MaxinArr.AssemblyInfoInputs.cache
+E:\C#\MaxinArr\MaxinArr\obj\Debug\net8.0\MaxinArr.AssemblyInfo.cs
+E:\C#\MaxinArr\MaxinArr\obj\Debug\net8.0\MaxinArr.csproj.CoreCompileInputs.cache
+E:\C#\MaxinArr\MaxinArr\obj\Debug\net8.0\MaxinArr.sourcelink.json
+E:\C#\MaxinArr\MaxinArr\obj\Debug\net8.0\MaxinArr.dll
+E:\C#\MaxinArr\MaxinArr\obj\Debug\net8.0\refint\MaxinArr.dll
+E:\C#\MaxinArr\MaxinArr\obj\Debug\net8.0\MaxinArr.pdb
+E:\C#\MaxinArr\MaxinArr\obj\Debug\net8.0\MaxinArr.genruntimeconfig.cache
+E:\C#\MaxinArr\MaxinArr\obj\Debug\net8.0\ref\MaxinArr.dll

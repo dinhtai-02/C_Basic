@@ -1,0 +1,15 @@
+E:\C#\Tinhtong3\Tinhtong3\bin\Debug\net8.0\Tinhtong3.exe
+E:\C#\Tinhtong3\Tinhtong3\bin\Debug\net8.0\Tinhtong3.deps.json
+E:\C#\Tinhtong3\Tinhtong3\bin\Debug\net8.0\Tinhtong3.runtimeconfig.json
+E:\C#\Tinhtong3\Tinhtong3\bin\Debug\net8.0\Tinhtong3.dll
+E:\C#\Tinhtong3\Tinhtong3\bin\Debug\net8.0\Tinhtong3.pdb
+E:\C#\Tinhtong3\Tinhtong3\obj\Debug\net8.0\Tinhtong3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tinhtong3\Tinhtong3\obj\Debug\net8.0\Tinhtong3.AssemblyInfoInputs.cache
+E:\C#\Tinhtong3\Tinhtong3\obj\Debug\net8.0\Tinhtong3.AssemblyInfo.cs
+E:\C#\Tinhtong3\Tinhtong3\obj\Debug\net8.0\Tinhtong3.csproj.CoreCompileInputs.cache
+E:\C#\Tinhtong3\Tinhtong3\obj\Debug\net8.0\Tinhtong3.sourcelink.json
+E:\C#\Tinhtong3\Tinhtong3\obj\Debug\net8.0\Tinhtong3.dll
+E:\C#\Tinhtong3\Tinhtong3\obj\Debug\net8.0\refint\Tinhtong3.dll
+E:\C#\Tinhtong3\Tinhtong3\obj\Debug\net8.0\Tinhtong3.pdb
+E:\C#\Tinhtong3\Tinhtong3\obj\Debug\net8.0\Tinhtong3.genruntimeconfig.cache
+E:\C#\Tinhtong3\Tinhtong3\obj\Debug\net8.0\ref\Tinhtong3.dll

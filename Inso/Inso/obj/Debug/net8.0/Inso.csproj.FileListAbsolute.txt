@@ -1,0 +1,15 @@
+E:\C#\Inso\Inso\bin\Debug\net8.0\Inso.exe
+E:\C#\Inso\Inso\bin\Debug\net8.0\Inso.deps.json
+E:\C#\Inso\Inso\bin\Debug\net8.0\Inso.runtimeconfig.json
+E:\C#\Inso\Inso\bin\Debug\net8.0\Inso.dll
+E:\C#\Inso\Inso\bin\Debug\net8.0\Inso.pdb
+E:\C#\Inso\Inso\obj\Debug\net8.0\Inso.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Inso\Inso\obj\Debug\net8.0\Inso.AssemblyInfoInputs.cache
+E:\C#\Inso\Inso\obj\Debug\net8.0\Inso.AssemblyInfo.cs
+E:\C#\Inso\Inso\obj\Debug\net8.0\Inso.csproj.CoreCompileInputs.cache
+E:\C#\Inso\Inso\obj\Debug\net8.0\Inso.sourcelink.json
+E:\C#\Inso\Inso\obj\Debug\net8.0\Inso.dll
+E:\C#\Inso\Inso\obj\Debug\net8.0\refint\Inso.dll
+E:\C#\Inso\Inso\obj\Debug\net8.0\Inso.pdb
+E:\C#\Inso\Inso\obj\Debug\net8.0\Inso.genruntimeconfig.cache
+E:\C#\Inso\Inso\obj\Debug\net8.0\ref\Inso.dll

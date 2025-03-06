@@ -1,0 +1,15 @@
+E:\C#\PtBac2\PtBac2\bin\Debug\net8.0\PtBac2.exe
+E:\C#\PtBac2\PtBac2\bin\Debug\net8.0\PtBac2.deps.json
+E:\C#\PtBac2\PtBac2\bin\Debug\net8.0\PtBac2.runtimeconfig.json
+E:\C#\PtBac2\PtBac2\bin\Debug\net8.0\PtBac2.dll
+E:\C#\PtBac2\PtBac2\bin\Debug\net8.0\PtBac2.pdb
+E:\C#\PtBac2\PtBac2\obj\Debug\net8.0\PtBac2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\PtBac2\PtBac2\obj\Debug\net8.0\PtBac2.AssemblyInfoInputs.cache
+E:\C#\PtBac2\PtBac2\obj\Debug\net8.0\PtBac2.AssemblyInfo.cs
+E:\C#\PtBac2\PtBac2\obj\Debug\net8.0\PtBac2.csproj.CoreCompileInputs.cache
+E:\C#\PtBac2\PtBac2\obj\Debug\net8.0\PtBac2.sourcelink.json
+E:\C#\PtBac2\PtBac2\obj\Debug\net8.0\PtBac2.dll
+E:\C#\PtBac2\PtBac2\obj\Debug\net8.0\refint\PtBac2.dll
+E:\C#\PtBac2\PtBac2\obj\Debug\net8.0\PtBac2.pdb
+E:\C#\PtBac2\PtBac2\obj\Debug\net8.0\PtBac2.genruntimeconfig.cache
+E:\C#\PtBac2\PtBac2\obj\Debug\net8.0\ref\PtBac2.dll

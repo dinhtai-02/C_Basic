@@ -1,0 +1,15 @@
+E:\C#\Tinhtoancoban\Tinhtoancoban\obj\Debug\net8.0\Tinhtoancoban.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Tinhtoancoban\Tinhtoancoban\obj\Debug\net8.0\Tinhtoancoban.AssemblyInfoInputs.cache
+E:\C#\Tinhtoancoban\Tinhtoancoban\obj\Debug\net8.0\Tinhtoancoban.AssemblyInfo.cs
+E:\C#\Tinhtoancoban\Tinhtoancoban\obj\Debug\net8.0\Tinhtoancoban.csproj.CoreCompileInputs.cache
+E:\C#\Tinhtoancoban\Tinhtoancoban\obj\Debug\net8.0\Tinhtoancoban.sourcelink.json
+E:\C#\Tinhtoancoban\Tinhtoancoban\bin\Debug\net8.0\Tinhtoancoban.exe
+E:\C#\Tinhtoancoban\Tinhtoancoban\bin\Debug\net8.0\Tinhtoancoban.deps.json
+E:\C#\Tinhtoancoban\Tinhtoancoban\bin\Debug\net8.0\Tinhtoancoban.runtimeconfig.json
+E:\C#\Tinhtoancoban\Tinhtoancoban\bin\Debug\net8.0\Tinhtoancoban.dll
+E:\C#\Tinhtoancoban\Tinhtoancoban\bin\Debug\net8.0\Tinhtoancoban.pdb
+E:\C#\Tinhtoancoban\Tinhtoancoban\obj\Debug\net8.0\Tinhtoancoban.dll
+E:\C#\Tinhtoancoban\Tinhtoancoban\obj\Debug\net8.0\refint\Tinhtoancoban.dll
+E:\C#\Tinhtoancoban\Tinhtoancoban\obj\Debug\net8.0\Tinhtoancoban.pdb
+E:\C#\Tinhtoancoban\Tinhtoancoban\obj\Debug\net8.0\Tinhtoancoban.genruntimeconfig.cache
+E:\C#\Tinhtoancoban\Tinhtoancoban\obj\Debug\net8.0\ref\Tinhtoancoban.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tinhtong2/1.0.0": {
+        "runtime": {
+          "Tinhtong2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tinhtong2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

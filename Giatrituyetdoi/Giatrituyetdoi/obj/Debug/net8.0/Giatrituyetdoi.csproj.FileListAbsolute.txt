@@ -1,0 +1,15 @@
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\bin\Debug\net8.0\Giatrituyetdoi.exe
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\bin\Debug\net8.0\Giatrituyetdoi.deps.json
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\bin\Debug\net8.0\Giatrituyetdoi.runtimeconfig.json
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\bin\Debug\net8.0\Giatrituyetdoi.dll
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\bin\Debug\net8.0\Giatrituyetdoi.pdb
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\obj\Debug\net8.0\Giatrituyetdoi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\obj\Debug\net8.0\Giatrituyetdoi.AssemblyInfoInputs.cache
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\obj\Debug\net8.0\Giatrituyetdoi.AssemblyInfo.cs
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\obj\Debug\net8.0\Giatrituyetdoi.csproj.CoreCompileInputs.cache
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\obj\Debug\net8.0\Giatrituyetdoi.sourcelink.json
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\obj\Debug\net8.0\Giatrituyetdoi.dll
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\obj\Debug\net8.0\refint\Giatrituyetdoi.dll
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\obj\Debug\net8.0\Giatrituyetdoi.pdb
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\obj\Debug\net8.0\Giatrituyetdoi.genruntimeconfig.cache
+E:\C#\Giatrituyetdoi\Giatrituyetdoi\obj\Debug\net8.0\ref\Giatrituyetdoi.dll

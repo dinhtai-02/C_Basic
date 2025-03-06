@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Songuyento", "Songuyento\Songuyento.csproj", "{25E6550F-97AE-427E-8356-ADC92E7CFFFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25E6550F-97AE-427E-8356-ADC92E7CFFFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25E6550F-97AE-427E-8356-ADC92E7CFFFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25E6550F-97AE-427E-8356-ADC92E7CFFFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25E6550F-97AE-427E-8356-ADC92E7CFFFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB13904C-2FD4-4998-B3F4-624BAE74FE0A}
+	EndGlobalSection
+EndGlobal

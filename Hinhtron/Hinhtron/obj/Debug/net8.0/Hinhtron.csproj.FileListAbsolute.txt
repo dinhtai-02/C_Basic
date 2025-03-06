@@ -1,0 +1,15 @@
+E:\C#\Hinhtron\Hinhtron\bin\Debug\net8.0\Hinhtron.exe
+E:\C#\Hinhtron\Hinhtron\bin\Debug\net8.0\Hinhtron.deps.json
+E:\C#\Hinhtron\Hinhtron\bin\Debug\net8.0\Hinhtron.runtimeconfig.json
+E:\C#\Hinhtron\Hinhtron\bin\Debug\net8.0\Hinhtron.dll
+E:\C#\Hinhtron\Hinhtron\bin\Debug\net8.0\Hinhtron.pdb
+E:\C#\Hinhtron\Hinhtron\obj\Debug\net8.0\Hinhtron.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Hinhtron\Hinhtron\obj\Debug\net8.0\Hinhtron.AssemblyInfoInputs.cache
+E:\C#\Hinhtron\Hinhtron\obj\Debug\net8.0\Hinhtron.AssemblyInfo.cs
+E:\C#\Hinhtron\Hinhtron\obj\Debug\net8.0\Hinhtron.csproj.CoreCompileInputs.cache
+E:\C#\Hinhtron\Hinhtron\obj\Debug\net8.0\Hinhtron.sourcelink.json
+E:\C#\Hinhtron\Hinhtron\obj\Debug\net8.0\Hinhtron.dll
+E:\C#\Hinhtron\Hinhtron\obj\Debug\net8.0\refint\Hinhtron.dll
+E:\C#\Hinhtron\Hinhtron\obj\Debug\net8.0\Hinhtron.pdb
+E:\C#\Hinhtron\Hinhtron\obj\Debug\net8.0\Hinhtron.genruntimeconfig.cache
+E:\C#\Hinhtron\Hinhtron\obj\Debug\net8.0\ref\Hinhtron.dll

@@ -1,0 +1,15 @@
+E:\C#\Lamtronso\Lamtronso\bin\Debug\net8.0\Lamtronso.exe
+E:\C#\Lamtronso\Lamtronso\bin\Debug\net8.0\Lamtronso.deps.json
+E:\C#\Lamtronso\Lamtronso\bin\Debug\net8.0\Lamtronso.runtimeconfig.json
+E:\C#\Lamtronso\Lamtronso\bin\Debug\net8.0\Lamtronso.dll
+E:\C#\Lamtronso\Lamtronso\bin\Debug\net8.0\Lamtronso.pdb
+E:\C#\Lamtronso\Lamtronso\obj\Debug\net8.0\Lamtronso.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Lamtronso\Lamtronso\obj\Debug\net8.0\Lamtronso.AssemblyInfoInputs.cache
+E:\C#\Lamtronso\Lamtronso\obj\Debug\net8.0\Lamtronso.AssemblyInfo.cs
+E:\C#\Lamtronso\Lamtronso\obj\Debug\net8.0\Lamtronso.csproj.CoreCompileInputs.cache
+E:\C#\Lamtronso\Lamtronso\obj\Debug\net8.0\Lamtronso.sourcelink.json
+E:\C#\Lamtronso\Lamtronso\obj\Debug\net8.0\Lamtronso.dll
+E:\C#\Lamtronso\Lamtronso\obj\Debug\net8.0\refint\Lamtronso.dll
+E:\C#\Lamtronso\Lamtronso\obj\Debug\net8.0\Lamtronso.pdb
+E:\C#\Lamtronso\Lamtronso\obj\Debug\net8.0\Lamtronso.genruntimeconfig.cache
+E:\C#\Lamtronso\Lamtronso\obj\Debug\net8.0\ref\Lamtronso.dll
